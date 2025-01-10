@@ -18,9 +18,9 @@ All instructions can be found at [draculatheme.com/archive-of-our-own](https://d
 
 This theme is maintained by the following person:
 
-[![Mirella](https://github.com/dhampir-damsel.png?size=100)](https://github.com/dhampir-damsel) |
---- |
-[Mirella](https://github.com/dhampir-damsel) |
+| [![Lynn](https://github.com/dhampirdamsel.png?size=100)](https://github.com/dhampirdamsel)
+| ----------------------------------------------------------------------------------------
+| [Lynn](https://github.com/dhampirdamsel)
 
 ## Community
 
